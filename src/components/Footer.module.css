@@ -35,7 +35,6 @@
   transition: color 0.2s ease-in-out;
 }
 
-
 .SocialMediaIcons {
   display: flex;
   margin-top: 1rem;
@@ -49,4 +48,9 @@
   margin-top: 1.5rem;
   font-size: 0.9rem;
   text-align: center;
+}
+@media (max-width: 400px) {
+  .Nav {
+    gap: 0.5rem;
+  }
 }

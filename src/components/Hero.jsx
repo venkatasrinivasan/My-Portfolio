@@ -5,8 +5,11 @@ const Hero = () => {
   return (
     <section className={styles.container} id="about">
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi,Im</h1>
-        <h1 className={styles.name}> Venkatasrinivasan</h1>
+        <h1 className={styles.title}>
+          Hi,Im <br />
+          Venkatasrinivasan
+        </h1>
+
         <p className={styles.subtitle}>
           Im a <span className={styles.fullstack}>Fullstack-Developer</span>
         </p>
