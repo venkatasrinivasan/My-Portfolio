@@ -1,28 +1,26 @@
-
-
 [
-    {
-      "title": "Recipe Book App",
-      "imageSrc": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Html", "Css","Javascript"],
-      "demo": "https://recipe-book-bay-nine.vercel.app/",
-      "source": "https://github.com/venkatasrinivasan/RecipeBook"
-    },
-    {
-      "title": "Weather App",
-      "imageSrc": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Html", "Css","Javascript"],
-      "demo": "https://weather-app-eta-beige-45.vercel.app/",
-      "source": "https://github.com/venkatasrinivasan/Weather-App"
-    },
-    {
-      "title": "Food App",
-      "imageSrc": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Html", "Css","Javascript"],
-      "demo": "https://food-app-one-tau.vercel.app/",
-      "source": "https://github.com/venkatasrinivasan/Food-app"
-    }
-  ]
+  {
+    "title": "Recipe Book App",
+    "imageSrc": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html","Css","Javascript"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React","Javascript"],
+    "demo": "https://weather-app-eta-beige-45.vercel.app/",
+    "source": "https://www.google.co.in/?gws_rd=ssl"
+  },
+  {
+    "title": "Food App",
+    "imageSrc": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React","Javascript"],
+    "demo": "",
+    "source": ""
+  }
+]

@@ -38,7 +38,7 @@ const Navbar = () => {
           </li>
          
           <li>
-        <a href="" target="_blank" className={styles.gitbutton}>
+        <a href="https://github.com/venkatasrinivasan" target="_blank" className={styles.gitbutton}>
           Github Profile
         </a>
       </li>
