@@ -4,8 +4,8 @@
     "imageSrc": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["Html","Css","Javascript"],
-    "demo": "",
-    "source": ""
+    "demo": "https://recipe-book-bay-nine.vercel.app/",
+    "source": "https://github.com/venkatasrinivasan/RecipeBook"
   },
   {
     "title": "Weather App",
@@ -20,7 +20,7 @@
     "imageSrc": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React","Javascript"],
-    "demo": "",
-    "source": ""
+    "demo": "https://food-app-one-tau.vercel.app/",
+    "source": "https://github.com/venkatasrinivasan/Food-app"
   }
 ]
